@@ -1,0 +1,4 @@
+%d 2203800
+%d 9400
+Throughput for FTP connection :  17.6304
+Throughput for TELNET connection :  0.0752
